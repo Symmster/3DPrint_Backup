@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#F9DB31"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "23.99"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nSET_PRESSURE_ADVANCE ADVANCE=0"
+    ],
+    "filament_flow_ratio": [
+        "0.8075"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_notes": [
+        "https://www.amazon.de/gp/product/B0BZT4DPHL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "PLA Jayo Light Gold"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.035"
+    ],
+    "filament_vendor": [
+        "Jayo"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Jayo Light Gold",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "1.8.0.0"
+}

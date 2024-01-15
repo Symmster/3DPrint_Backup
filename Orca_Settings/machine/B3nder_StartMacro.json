@@ -1,0 +1,46 @@
+{
+    "bed_custom_model": "C:\\\\Users\\\\Benjamin\\\\Downloads\\\\e3s1_bed_model.stl",
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME",
+    "change_filament_gcode": "M600",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_x": [
+        "3500",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "3500",
+        "20000"
+    ],
+    "machine_max_acceleration_z": [
+        "100",
+        "200"
+    ],
+    "machine_max_speed_x": [
+        "300",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "300",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "10",
+        "12"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[hot_plate_temp_initial_layer]",
+    "name": "B3nder_StartMacro",
+    "nozzle_type": "brass",
+    "print_host": "192.168.178.175",
+    "printable_area": [
+        "0x0",
+        "220x0",
+        "220x220",
+        "0x220"
+    ],
+    "printable_height": "270",
+    "printer_settings_id": "B3nder_StartMacro",
+    "version": "1.8.0.0"
+}

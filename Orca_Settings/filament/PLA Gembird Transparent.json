@@ -1,0 +1,55 @@
+{
+    "default_filament_colour": [
+        "#E0E0E0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "31.9"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nSET_PRESSURE_ADVANCE ADVANCE=0"
+    ],
+    "filament_flow_ratio": [
+        "0.931"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_notes": [
+        "https://www.amazon.de/gp/product/B0BZT4DPHL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "PLA Gembird Transparent"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.03946"
+    ],
+    "filament_vendor": [
+        "Gembird"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Gembird Transparent",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "1.8.0.0"
+}

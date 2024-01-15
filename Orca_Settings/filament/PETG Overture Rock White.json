@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#E0E0E0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_settings_id": [
+        "PETG Overture Rock White"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG Overture Rock White",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.044"
+    ],
+    "version": "1.8.0.0"
+}

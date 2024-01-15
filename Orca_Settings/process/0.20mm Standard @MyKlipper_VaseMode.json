@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "default_acceleration": "3500",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @MyKlipper_VaseMode",
+    "print_settings_id": "0.20mm Standard @MyKlipper_VaseMode",
+    "skirt_loops": "2",
+    "sparse_infill_density": "0%",
+    "spiral_mode": "1",
+    "top_shell_layers": "0",
+    "version": "1.8.0.0",
+    "wall_loops": "1"
+}
